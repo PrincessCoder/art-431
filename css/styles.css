@@ -31,13 +31,16 @@
     font-weight: 100;
     color: #555e5f;
     box-sizing: border-box;
-    padding: 2em 2.56em;
+    padding: 3em 2.56em;
   }
 
   p {
     font-size: 1em;
     box-sizing: border-box;
     padding: 0 3em 1em 3em;
+    max-width: 80%;
+    margin: 0;
+    box-sizing: border-box;
   }
 
   .navbar {
@@ -140,6 +143,8 @@ footer {
   font-weight: 100;
   color: #9da1a4;
   font-size: smaller;
+  max-width: 100%;
+
 }
 
 /* Reset some default styles for better consistency */
@@ -186,12 +191,16 @@ footer {
 
 .image-container {
   flex: 0 0 40%;
-  padding: 20px;
   padding: 3em 0 0 3em;
 }
 
 .text-container {
   flex: 2;
+  padding: 20px;
+}
+
+.text-container-2 {
+  flex: 0 0 60%;
   padding: 20px;
 }
 
