@@ -26,6 +26,14 @@
     padding: 1em 2em .5em 2em;
   }
 
+  h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    color: #555e5f;
+    box-sizing: border-box;
+    padding: 0 2.56em;
+  }
+
   p {
     font-size: 1em;
     box-sizing: border-box;
@@ -36,7 +44,7 @@
     display: flex;
     justify-content: space-between;
     /* background-color: #333; */
-    padding: 10px;
+    padding: 2em 3em;
     /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
   }
 
@@ -117,13 +125,13 @@
 
 /* Add additional styling to the header if desired */
 
-/* .caption {
+.caption-2 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 100;
   color: #555e5f;
   font-size: small;
   margin: 1em;
-} */
+}
 
 footer {
   margin: 1em;
@@ -198,4 +206,23 @@ footer {
   padding: 20px;
   padding: 1em 3em 0 3em;
   align-items: center;
+}
+
+/* Text in columns */
+.container-3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+  padding: 0 1em 0 1em;
+  box-sizing: border-box;
+}
+
+/* Adjust the breakpoint as needed */
+@media screen and (max-width: 768px) {
+  .container-3 {
+    flex-direction: column;
+  }
 }
