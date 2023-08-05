@@ -117,13 +117,13 @@
 
 /* Add additional styling to the header if desired */
 
-.caption {
+/* .caption {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 100;
   color: #555e5f;
   font-size: small;
   margin: 1em;
-}
+} */
 
 footer {
   margin: 1em;
@@ -169,5 +169,32 @@ footer {
   border-radius: 5px;
 }
 
-/* Add additional styling to the header or caption if desired */
+/* Add additional styling to the header or caption if desired */ 
 
+/* Add containers below for left side imgs */
+
+.container {
+  display: flex;
+}
+
+.image-container {
+  flex: 0 0 40%;
+  padding: 20px;
+  padding: 3em 0 0 3em;
+}
+
+.text-container {
+  flex: 2;
+  padding: 20px;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-container-2 {
+  flex: 0 0 40%;
+  padding: 20px;
+  padding: 1em 2em 0 3em;
+}
