@@ -14,9 +14,9 @@
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 100;
     color: #555e5f;
-    max-width: 60%;
+    max-width: 100%;
     margin: 0;
-    padding: 0;
+    padding: .8em 0 0 0;
     box-sizing: border-box;
   }
 
@@ -190,7 +190,7 @@ footer {
 
 .image-container {
   flex: 0 0 40%;
-  padding: 1.5em 0 0 3em;
+  padding: 3em 0 0 3em;
 }
 
 .text-container {
