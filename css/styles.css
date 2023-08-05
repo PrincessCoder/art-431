@@ -31,7 +31,7 @@
     font-weight: 100;
     color: #555e5f;
     box-sizing: border-box;
-    padding: 0 2.56em;
+    padding: 2em 2.56em;
   }
 
   p {
@@ -134,14 +134,12 @@
 }
 
 footer {
-  margin: 0em;
-  padding: 2em 1em;
+  padding: 3em;
   box-sizing: border-box;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 100;
-  color: #ecf2f3;
-  font-size: small;
-  background-color: #555e5f;
+  color: #9da1a4;
+  font-size: smaller;
 }
 
 /* Reset some default styles for better consistency */
