@@ -31,7 +31,9 @@
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 100;
     color: #555e5f;
-    padding: 1em 3em 0 3em;
+    padding: 2em;
+    margin: 2em 0 0 0;
+    background-color: #d3d6d6;
   }
 
   p {
@@ -45,7 +47,7 @@
     display: flex;
     justify-content: space-between;
     /* background-color: #333; */
-    padding: 2em 3em 0 3em;
+    padding: 2em 3em;
     /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
   }
 
@@ -166,6 +168,7 @@ footer {
   width: 100%;
   height: auto;
   display: block;
+  padding: 0;
 }
 
 /* Style the caption */
