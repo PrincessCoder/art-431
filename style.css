@@ -196,5 +196,6 @@ footer {
 .image-container-2 {
   flex: 0 0 40%;
   padding: 20px;
-  padding: 1em 2em 0 3em;
+  padding: 1em 3em 0 3em;
+  align-items: center;
 }
