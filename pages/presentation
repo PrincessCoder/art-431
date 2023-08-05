@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.min.js" integrity="sha512-NxocnqsXP3zm0Xb42zqVMvjQIktKEpTIbCXXyhBPxqGZHqhcOXHs4pXI/GoZ8lE+2NJONRifuBpi9DxC58L0Lw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>ART 431 Artificial Intelligence Project | Tamara McLean</title>
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="https://refikanadol.com/" class="nav-link">Refik Anadol</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://openai.com/dall-e-2" class="nav-link">DALL•E</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://bard.google.com/?hl=en" class="nav-link">Google Bard</a>
+          </li>
+        </ul>
+      </nav>
+    <!-- <img src="/img/artboard-1.png" alt="DALL•E AI Generated Art by Tamara McLean">
+    <div class="caption">Tamara McLean, “DALL-E Generated 200 Years of MOMA referenced by art of Refik Anadol’s “Unsupervised” 2023</div> -->
+  </header>
+  <div class="container">
+  <h2>Title</h2>
+  <p>Place holder text.</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zpRIG1_lOvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <h2></h2>
+  <p></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zMvHObJKT2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h2></h2>
+    <p></p>
+  </div>
+    <div>
+      <footer>
+        <caption>
+          © 2023 Tamara McLean | University of Wisconsin-Madison
+        </caption>
+      </footer>
+    </div>
+</body>
+</html>
