@@ -32,8 +32,7 @@
     font-weight: 100;
     color: #555e5f;
     padding: 2em;
-    margin: 2em 0 0 0;
-    background-color: #d3d6d6;
+    margin: 0;
   }
 
   p {
@@ -225,6 +224,14 @@ footer {
 .container-3 {
   display: flex;
   flex-wrap: wrap;
+}
+
+.container-4 {
+  display: flex;
+  background-color: #d3d6d6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .column {
