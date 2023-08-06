@@ -227,9 +227,9 @@ footer {
 }
 
 .container-4 {
-  display: flex;
+  /* display: flex; */
   background-color: #d3d6d6;
-  margin: 0;
+  margin: 2em 0 0 0;
   padding: 0;
   box-sizing: border-box;
 }
